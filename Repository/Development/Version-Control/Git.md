@@ -4,12 +4,12 @@ Git is a free and open source distributed version control system designed to han
 
 # Roles
 
-|   Role    |                 Concept                 |               Teoretical                |                Practical                |
-| :-------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
-| Developer | <span style="color:#2b8a3e">MUST</span> | <span style="color:#2b8a3e">MUST</span> | <span style="color:#2b8a3e">MUST</span> |
-|  DevOps   | <span style="color:#2b8a3e">MUST</span> | <span style="color:#2b8a3e">MUST</span> | <span style="color:#2b8a3e">MUST</span> |
-|    QA     | <span style="color:#2b8a3e">MUST</span> | <span style="color:#2b8a3e">MUST</span> | <span style="color:#2b8a3e">MUST</span> |
-| Architect | <span style="color:#2b8a3e">MUST</span> | <span style="color:#2b8a3e">MUST</span> | <span style="color:#2b8a3e">MUST</span> |
+|   Role    |         Concept         |       Teoretical        |        Practical        |
+| :-------: | :---------------------: | :---------------------: | :---------------------: |
+| Developer | $${\color{green}MUST}$$ | $${\color{green}MUST}$$ | $${\color{green}MUST}$$ |
+|  DevOps   | $${\color{green}MUST}$$ | $${\color{green}MUST}$$ | $${\color{green}MUST}$$ |
+|    QA     | $${\color{green}MUST}$$ | $${\color{green}MUST}$$ | $${\color{green}MUST}$$ |
+| Architect | $${\color{green}MUST}$$ | $${\color{green}MUST}$$ | $${\color{green}MUST}$$ |
 
 # Learning Materials
 

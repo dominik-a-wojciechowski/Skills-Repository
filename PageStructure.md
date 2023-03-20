@@ -15,10 +15,10 @@ Describes the recommended level of knowledge for roles. The possible levels are:
 
 Each role will have recommendation for each level:
 
-* <span style="color:#2b8a3e">MUST</span> to know - The skill that is necessary for the successful development of the role.
-* <span style="color:#e67700">SHOULD</span> to know - The skill that is important but completion is not necessary. 
-* <span style="color:#0b7285">COULD</span> to know - The skill that is nice to have, but have a much smaller impact on the role development.
-* <span style="color:#d9480f">WON`T</span> to know - The skill that is not important, non-value adding and probably will not help with the role development. 
+* $${\color{green}MUST}$$ to know - The skill that is necessary for the successful development of the role.
+* $${\color{orange}SHOULD}$$ to know - The skill that is important but completion is not necessary. 
+* $${\color{lightblue}COULD}$$ to know - The skill that is nice to have, but have a much smaller impact on the role development.
+* $${\color{red}MUST}$$ to know - The skill that is not important, non-value adding and probably will not help with the role development. 
 
 ### Content
 

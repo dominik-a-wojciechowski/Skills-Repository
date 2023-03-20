@@ -4,14 +4,14 @@ Azure DevOps supports a collaborative culture and set of processes that bring to
 
 # Roles
 
-|   Role    |                 Concept                 |                        Teoretical                        |                        Practical                        |
-| :-------: | :-------------------------------------: | :------------------------------------------------------: | :-----------------------------------------------------: |
-| Developer | <span style="color:#2b8a3e">MUST</span> | <span style="color:#e67700">SHOULD</span> <sup>[1]</sup> | <span style="color:#0b7285">COULD</span> <sup>[1]</sup> |
-|  DevOps   | <span style="color:#2b8a3e">MUST</span> |         <span style="color:#2b8a3e">MUST</span>          | <span style="color:#0b7285">COULD</span> <sup>[1]</sup> |
-|    QA     | <span style="color:#2b8a3e">MUST</span> | <span style="color:#e67700">SHOULD</span> <sup>[1]</sup> | <span style="color:#0b7285">COULD</span> <sup>[1]</sup> |
-| Architect | <span style="color:#2b8a3e">MUST</span> |         <span style="color:#2b8a3e">MUST</span>          | <span style="color:#0b7285">COULD</span> <sup>[1]</sup> |
+|   Role    |         Concept         |                Teoretical                 |                  Practical                  |
+| :-------: | :---------------------: | :---------------------------------------: | :-----------------------------------------: |
+| Developer | $${\color{green}MUST}$$ | $${\color{orange}SHOULD}$$ <sup>[1]</sup> | $${\color{lightblue}COULD}$$ <sup>[1]</sup> |
+|  DevOps   | $${\color{green}MUST}$$ |          $${\color{green}MUST}$$          | $${\color{lightblue}COULD}$$ <sup>[1]</sup> |
+|    QA     | $${\color{green}MUST}$$ | $${\color{orange}SHOULD}$$ <sup>[1]</sup> | $${\color{lightblue}COULD}$$ <sup>[1]</sup> |
+| Architect | $${\color{green}MUST}$$ |          $${\color{green}MUST}$$          | $${\color{lightblue}COULD}$$ <sup>[1]</sup> |
 
- > <sup>[1]</sup> If you are using ADO in your company it should be <span style="color:#2b8a3e">MUST</span>
+ > <sup>[1]</sup> If you are using ADO in your company it should be MUST
 
 # Learning Materials
 
