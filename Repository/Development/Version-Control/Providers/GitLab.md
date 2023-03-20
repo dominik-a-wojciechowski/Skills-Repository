@@ -4,12 +4,12 @@ GitLab is an open source code repository and collaborative software development 
 
 # Roles
 
-|   Role    |                                  Concept                                   |                                         Teoretical                                          |                                         Practical                                          |
-| :-------: | :------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: |
-| Developer | <img src="./../../../../.attachments/global/text-must.png" height="13px"/> | <img src="./../../../../.attachments/global/text-should.png" height="13px"/> <sup>[1]</sup> | <img src="./../../../../.attachments/global/text-could.png" height="13px"/> <sup>[1]</sup> |
-|  DevOps   | <img src="./../../../../.attachments/global/text-must.png" height="13px"/> |         <img src="./../../../../.attachments/global/text-must.png" height="13px"/>          | <img src="./../../../../.attachments/global/text-could.png" height="13px"/> <sup>[1]</sup> |
-|    QA     | <img src="./../../../../.attachments/global/text-must.png" height="13px"/> | <img src="./../../../../.attachments/global/text-should.png" height="13px"/> <sup>[1]</sup> | <img src="./../../../../.attachments/global/text-could.png" height="13px"/> <sup>[1]</sup> |
-| Architect | <img src="./../../../../.attachments/global/text-must.png" height="13px"/> |         <img src="./../../../../.attachments/global/text-must.png" height="13px"/>          | <img src="./../../../../.attachments/global/text-could.png" height="13px"/> <sup>[1]</sup> |
+|   Role    | Concept |       Teoretical        |       Practical        |
+| :-------: | :-----: | :---------------------: | :--------------------: |
+| Developer | ✅ MUST  | ⚠️ SHOULD <sup>[1]</sup> | ⏺️ COULD <sup>[1]</sup> |
+|  DevOps   | ✅ MUST  |         ✅ MUST          | ⏺️ COULD <sup>[1]</sup> |
+|    QA     | ✅ MUST  | ⚠️ SHOULD <sup>[1]</sup> | ⏺️ COULD <sup>[1]</sup> |
+| Architect | ✅ MUST  |         ✅ MUST          | ⏺️ COULD <sup>[1]</sup> |
 
  > <sup>[1]</sup> If you are using GitLab in your company it should be MUST
 

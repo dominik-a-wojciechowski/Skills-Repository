@@ -4,12 +4,12 @@ Git is a free and open source distributed version control system designed to han
 
 # Roles
 
-|   Role    |                                       Concept                                       |                                     Teoretical                                      |                                      Practical                                      |
-| :-------: | :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-| Developer | <img src="./../../../.attachments/global/text-must.png" height="13px"/> | <img src="./../../../.attachments/global/text-must.png" height="13px"/> | <img src="./../../../.attachments/global/text-must.png" height="13px"/> |
-|  DevOps   |  <img src="./../../../.attachments/global/text-must.png" height="13px"/> | <img src="./../../../.attachments/global/text-must.png" height="13px"/> | <img src="./../../../.attachments/global/text-must.png" height="13px"/> |
-|    QA     |  <img src="./../../../.attachments/global/text-must.png" height="13px"/> | <img src="./../../../.attachments/global/text-must.png" height="13px"/> | <img src="./../../../.attachments/global/text-must.png" height="13px"/> |
-| Architect |  <img src="./../../../.attachments/global/text-must.png" height="13px"/> | <img src="./../../../.attachments/global/text-must.png" height="13px"/> | <img src="./../../../.attachments/global/text-must.png" height="13px"/> |
+|   Role    | Concept | Teoretical | Practical |
+| :-------: | :-----: | :--------: | :-------: |
+| Developer | ✅ MUST  |   ✅ MUST   |  ✅ MUST   |
+|  DevOps   | ✅ MUST  |   ✅ MUST   |  ✅ MUST   |
+|    QA     | ✅ MUST  |   ✅ MUST   |  ✅ MUST   |
+| Architect | ✅ MUST  |   ✅ MUST   |  ✅ MUST   |
 
 # Learning Materials
 
